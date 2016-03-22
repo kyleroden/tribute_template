@@ -1,0 +1,25 @@
+/* colors to use:
+90B2A2
+E8FFF4
+*/
+
+#wrapper {
+  background-color: #E8FFF4;
+  margin-top: 15px;
+}
+#caption {
+  margin-top: 10px;
+}
+#pic-well {
+  width: 90%;
+  margin: 0 auto;
+}
+.center-img {
+  margin: 0 auto;
+}
+li {
+  font-size: 1.1em;
+}
+li span {
+  font-weight: 900;
+}
